@@ -1,0 +1,33 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 3.337893 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 541.
+Total: 1.057524 ms (FindLiveObjects: 0.025659 ms CreateObjectMapping: 0.009897 ms MarkObjects: 0.130861 ms  DeleteObjects: 0.482392 ms)
+
+Platform assembly: F:\Nouveau dossier\DEADLY_MISTAKES\Deadly Mistakes_Data\Managed\Boo.Lang.dll (this message is harmless)
